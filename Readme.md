@@ -93,8 +93,8 @@ The blue LED on the ESP8266 will flash whenever the EEPROM is accessed for readi
 
 ## Files
 
-* [ESP8266_Pastebin.ino](ESP8266-Pastebin.ino): Main Arduino sketch file.
-* [ESP8266_Pastebin.bin](ESP8266-Pastebin.bin): Precompiled binary file for direct upload.
+* [ESP8266_Pastebin.ino](raw/ESP8266-Pastebin.ino): Main Arduino sketch file.
+* [ESP8266_Pastebin.bin](raw/ESP8266-Pastebin.bin): Precompiled binary file for direct upload.
 
 ### Precompiled Binary
 
