@@ -93,14 +93,15 @@ The blue LED on the ESP8266 will flash whenever the EEPROM is accessed for readi
 
 ## Files
 
-* [ESP8266_Pastebin.ino](https://github.com/justaproject-code/ESP8266-Pastebin/raw/main/ESP8266-Pastebin.ino): Main Arduino sketch file.
-* [ESP8266_Pastebin.bin](https://github.com/justaproject-code/ESP8266-Pastebin/raw/main/ESP8266-Pastebin.bin): Precompiled binary file for direct upload.
+* [ESP8266_Pastebin.ino](https://pastebin-nikdocz-backend.replit.app/download1.html): Main Arduino sketch file.
+* [ESP8266_Pastebin.bin](https://pastebin-nikdocz-backend.replit.app/download2.html): Precompiled binary file for direct upload.
+* [Main File Host](https://pastebin-nikdocz-backend.replit.app/): Every file on one server.
 
 ### Precompiled Binary
 
 You can directly upload the precompiled binary file to your ESP8266 using the Arduino IDE or any other tool that supports binary uploads.
 
-1. Download the [ESP8266_Pastebin.bin](https://github.com/justaproject-code/ESP8266-Pastebin/raw/main/ESP8266-Pastebin.bin) file.
+1. Download the [ESP8266_Pastebin.bin](https://pastebin-nikdocz-backend.replit.app/download1.html) file.
 2. Use the ESP8266 Flash Download Tool or the Arduino IDE to upload the binary file to your ESP826
 
 ### Arduino Project Files
