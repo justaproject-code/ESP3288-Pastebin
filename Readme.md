@@ -24,9 +24,10 @@ This project allows you to create a simple pastebin using an ESP8266 module. Use
 ## Setup Instructions
 
 1. **Download or Clone the Repository**
-`git clone https://github.com/yourusername/ESP8266-Pastebin.git<br>cd ESP8266-Pastebin`
+`git clone https://github.com/yourusername/ESP8266-Pastebin.git
+`cd ESP8266-Pastebin`
 
-2. **Open the Project in Arduino IDE**
+3. **Open the Project in Arduino IDE**
 
 Open the `ESP8266_Pastebin.ino` file in the Arduino IDE.
 
